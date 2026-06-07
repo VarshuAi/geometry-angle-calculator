@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Angle solver graphing geometric angles and sectors.
+  name: geometry-angle-calculator version: 1.0 type: Repository author: VarshuAi description: >   Angle solver graphing geometric angles and sectors. primary_tech: CSS
 primary_tech: CSS
 ```
 
